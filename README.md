@@ -10,3 +10,15 @@
                                            
 
 </code></pre>
+
+<!--START_SECTION:waka-->
+
+```txt
+OCaml          6 hrs 47 mins   OOOOOOOOOOOOOOOO0........   67.26 %
+TypeScript     2 hrs 21 mins   OOOOOO...................   23.36 %
+Other          18 mins         0........................   03.06 %
+Bash           18 mins         0........................   03.03 %
+Dune           10 mins         o........................   01.79 %
+```
+
+<!--END_SECTION:waka-->
